@@ -1,0 +1,19 @@
+.jumbotron {
+  padding: 5rem 1rem;
+  background-color: beige;
+}
+#about {
+  background-color: grey;
+  padding-top: 5rem 1rem;
+}
+#hobby {
+  background-color: beige;
+  padding-right: 5rem;
+  padding-left: 5rem;
+}
+#contact {
+  background-color: grey;
+}
+section {
+  padiing-top: 5rem;
+}
